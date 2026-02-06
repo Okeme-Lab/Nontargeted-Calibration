@@ -1,0 +1,2 @@
+# Nontargeted Calibration of PDMS-Mesh and GFF-Mesh
+This is the github repository for McPherson et al.'s manuscript, "Nontargeted Calibration: A Novel Method to Understand Passive Uptake and Quantify Diverse Chemicals using Passive Air Samplers." The most updated code used for this project is titled NTACalibration_Updated_Workflow. Files that the code depends on are provided. To use the code, alter file paths to ensure working directory is correctly set for importing and exporting files.
