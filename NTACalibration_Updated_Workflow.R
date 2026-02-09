@@ -3297,7 +3297,7 @@ Figure2 <- ggarrange(sampler_type_ven, Feature_Levels_All,
                      font.label = list(colour = "black", size = 25))
 Figure2
 
-save_plot(plot = preFigure2, "Figures/Figure_2.svg", base_height = 8, base_width = 16)
+save_plot(plot = Figure2, "Figures/Figure_2.svg", base_height = 8, base_width = 16)
 
 preFigure3 <- ggarrange(NewFilt_IQR_BP_Rates, PDMSvGFF,
                         labels = c("B", "C"), nrow = 1, ncol = 2, hjust = c(-4, -4), align = "h",
